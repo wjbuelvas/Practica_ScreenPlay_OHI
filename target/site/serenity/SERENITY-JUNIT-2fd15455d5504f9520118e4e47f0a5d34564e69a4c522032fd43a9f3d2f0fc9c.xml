@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="2" name="Crear prestador en OHI" skipped="0" tests="2" time="8.58" timestamp="2021-04-10 02:26:11"><testcase name="Crear prestadores en OHI"><failure message="&#10;Expected: &lt;201&gt;&#10;     but: was &lt;401&gt;" type="java.lang.AssertionError">
+Expected: &lt;201&gt;
+     but: was &lt;401&gt;</failure><system-err>
+Expected: &lt;201&gt;
+     but: was &lt;401&gt;&#13;
+stepdefinitions.CrearPrestadorStepDefinitions.el_prestador_quedará_guardado_correctamente(CrearPrestadorStepDefinitions.java:44)&#13;
+✽.el prestador quedará guardado correctamente(file:///C:/Users/GS-0014/Documents/Practica_ScreenPlay_OHI/src/test/resources/features/creacion_prestadores.feature:24)&#13;
+</system-err></testcase></testsuite>

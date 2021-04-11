@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Crear prestador en OHI","Ingresar prestador natural existente en OHI","PENDING","2021-04-09T15:15:33.59-05:00[America/Bogota]","0.0","0.03"
+"Crear prestador en OHI","Ingresar prestador jurídico existente en OHI","PENDING","2021-04-09T15:15:33.632-05:00[America/Bogota]","0.0","0.03"
+"Crear prestador en OHI","Crear prestador natural en OHI","PENDING","2021-04-09T15:17:22.673-05:00[America/Bogota]","0.0","0.22"
+"Crear prestador en OHI","Crear un prestador jurídico con sede principal y varias sucursales en OHI","PENDING","2021-04-09T15:17:22.944-05:00[America/Bogota]","0.0","0.02"
+"Crear prestador en OHI",": Consultar prestadores en OHI","PENDING","2021-04-10T11:05:55.79-05:00[America/Bogota]","0.0","0.65"

@@ -1,0 +1,12 @@
+package utils.enums;
+
+public enum ArchivoDatoPrueba {
+  CREDENCIALES,
+  CLIENTE,
+  PRESTADORES,
+  GRUPOPRESTACIONES,
+  CONTRATO,
+  DOCUMENTACION,
+  MANUALTARIFARIO;
+
+}
